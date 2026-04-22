@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "00nySTRJyqCydWvD3SGxeVYFjpw6m/tsWhKf3/0X4fM=",
+  "Source": "AsyncJobQueue",
+  "BasePath": "_content/AsyncJobQueue",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
