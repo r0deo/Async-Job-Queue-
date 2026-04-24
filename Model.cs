@@ -1,5 +1,5 @@
 namespace AsyncJobQueue;
  
-record Job(string Id,string status);
+public record Job(string Id,string status);
 
-record JobMetadata(string ReportType);
+public record JobMetadata(string ReportType);

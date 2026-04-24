@@ -1,6 +1,0 @@
-D:\CaptainChaos\Async-Job-Queue\Async-Job-Queue-\obj\Debug\net9.0\Async-Job-Queue.GeneratedMSBuildEditorConfig.editorconfig
-D:\CaptainChaos\Async-Job-Queue\Async-Job-Queue-\obj\Debug\net9.0\Async-Job-Queue.AssemblyInfoInputs.cache
-D:\CaptainChaos\Async-Job-Queue\Async-Job-Queue-\obj\Debug\net9.0\Async-Job-Queue.AssemblyInfo.cs
-D:\CaptainChaos\Async-Job-Queue\Async-Job-Queue-\obj\Debug\net9.0\Async-Job-Queue.csproj.CoreCompileInputs.cache
-D:\CaptainChaos\Async-Job-Queue\Async-Job-Queue-\obj\Debug\net9.0\Async-Job-Queue.MvcApplicationPartsAssemblyInfo.cache
-D:\CaptainChaos\Async-Job-Queue\Async-Job-Queue-\obj\Debug\net9.0\Async-Job-Queue.sourcelink.json

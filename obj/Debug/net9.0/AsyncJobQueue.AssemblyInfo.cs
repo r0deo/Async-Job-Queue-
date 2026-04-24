@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AsyncJobQueue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+463fc7f9a81dc61431595470d190c80a9a9baaec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed6709e74ba4eb775e96b4258730ee4cf25762ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("AsyncJobQueue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AsyncJobQueue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
