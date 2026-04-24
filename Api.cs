@@ -1,4 +1,5 @@
 using System.Collections.Concurrent;
+using AsyncJobQueue;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -61,6 +62,3 @@ private async Task CompleteJobAsync(string jobId)
 
 }
 
-record Job(string Id,string status);
-
-record JobMetadata(string ReportType);
